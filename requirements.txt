@@ -1,0 +1,15 @@
+Django==3.1.7
+djangorestframework==3.12.2
+psycopg2-binary==2.8.6
+
+django-environ==0.4.5               # https://github.com/joke2k/django-environ
+
+redis==3.5.3
+celery==4.4.7
+
+django-extensions==3.1.1
+ipython==7.21.0
+jedi<0.18.0  # Fix IPython 7.19.0 autocomplete
+
+pytest==6.2.2
+pytest-django==4.1.0
